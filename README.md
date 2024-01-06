@@ -34,7 +34,6 @@
  PAST AND PRESENT PARISH PRIESTS AND PAROCHIAL VICARS
 </p>
 
-<p align="center">
 | **Parish Priests** | **Year** |
 | ---- | ---- |
 | Jesus Martinez, C.M. | 1964 |
@@ -44,9 +43,8 @@
 | Alfonso Grageda | 1969 |
 | Jesus Esplana | 1985 |
 | Juan A. Alarcon, Jr. H.P. | 1989 |
-</p>
 
-<p align="center">
+
 | **Parochial Vicars** | **Year** |
 | ---- | ---- |
 | Jerome Rafael Gomez | 1991 |
@@ -59,7 +57,6 @@
 | Jose Roberto Carpio | 1996 |
 | Abundio Nopre, Jr. | 1996 |
 | Felix Martin Penetrante | 1997 |
-</p>
 
 ---
 <p align="center">
@@ -72,7 +69,6 @@
  SCHEDULE OF SERVICES
 </p>
 
-<p align="center">
 | **Times** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
@@ -84,7 +80,6 @@
 | 17:30 | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Scheduled Mass |
 | 18:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass (Fb Live) |
 | 20:15 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
-</p>
 
 ---
 <p align="center">
