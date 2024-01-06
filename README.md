@@ -44,11 +44,8 @@
 | Jesus Esplana | 1985 |
 | Juan A. Alarcon, Jr. H.P. | 1989 |
 
-<p align="center">
- #
-</p>
 
-| **Parochial Vicars** | **Years** |
+| **Parochial Vicars** | **Year** |
 | ---- | ---- |
 | Jerome Rafael Gomez | 1991 |
 | Medraldo Acabado | 1993 |
