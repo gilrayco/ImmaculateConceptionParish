@@ -12,17 +12,16 @@
 </p>
 
 ---
-
-<p align="left">
- Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established on December 8, 1964. It is located at Brgy. Concepcion Pequena, Naga City, Province of Camarines Sur. The Parish Fiesta is celebrated every 8th day of December. 
-</p>
-
----
 <p align="center">
  HISTORY
 </p>
 
-
+> Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established on December 8, 1964. It is located at Brgy. Concepcion Pequena, Naga City, Province of Camarines Sur. The Parish Fiesta is celebrated every 8th day of December.
+>
+> In the year 2014, 
+> 
+> In the year 2019, the parish underwent a major renovation through the rearragement of sacred spaces and the provision of new retablo, Altar. This was Solemnly Blessed and Rededicated by the Most Rev. Rolando J. Tria Tirona, OCD, DD on November 27.
+> 
  ---
 <p align="center">
  TERRITORIAL JURISDICTION
@@ -39,10 +38,10 @@
 | Jesus Martinez, C.M. | 1964 |
 | Manuel Blasquez, C.M. | 1967 |
 | Rogelio Gomez | 1969 |
-| Benjamin Almoneda (now bishop of Daet) | 1969 |
-| Alfonso Grageda | 1969 |
+| Most Rev. Benjamin J. Almoneda, DD (now bishop of Daet) | 1964-1970 |
+| Fr. Alfonso A. Grageda | 1970-1976 |
 | Jesus Esplana | 1985 |
-| Juan A. Alarcon, Jr. H.P. | 1989 |
+| Rev. Msgr. Juan A. Alarcon, Jr. H.P. | 1989 |
 
 
 | **Parochial Vicars** | **Year** |
