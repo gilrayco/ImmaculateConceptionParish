@@ -34,7 +34,10 @@
  PAST AND PRESENT PARISH PRIESTS AND PAROCHIAL VICARS
 </p>
 
-
+| Priests | Years |
+| ---- | ---- |
+| test-bob | 1691 |
+| test-earl | 1961 |
 ---
 <p align="center">
  DIFFERENT ORGANIZATIONS ATTACHED TO THE PARISH
