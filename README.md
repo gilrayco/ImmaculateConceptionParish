@@ -83,6 +83,11 @@
 | 18:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass (Fb Live) |
 | 20:15 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
 
+| Office hours | - |
+| ---- | ---- |
+| Monday - Saturday | 7:00 - 12:00 and 14:00 - 18:00|
+| Sunday | 7:00 - 12:00 |
+
 ---
 <p align="center">
  CALENDAR OF ACTIVITIES
@@ -97,4 +102,6 @@
 
 ---
 
-REFERENCES: 
+> REFERENCES: 
+> [kumpisalan](https://kumpisalan.com/church/23/Immaculate%20Conception%20Parish%20-%20Naga,%20Camarines%20Sur)
+> [GCatholic](http://www.gcatholic.org/churches/asia-east/64730.htm)
