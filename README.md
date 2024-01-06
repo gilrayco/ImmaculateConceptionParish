@@ -34,10 +34,28 @@
  PAST AND PRESENT PARISH PRIESTS AND PAROCHIAL VICARS
 </p>
 
-| Parish Priest | Year |
+| **Parish Priests** | **Year** |
 | ---- | ---- |
-| test-bob | 1691 |
-| test-earl | 1961 |
+| Jesus Martinez, C.M. | 1964 |
+| Manuel Blasquez, C.M. | 1967 |
+| Rogelio Gomez | 1969 |
+| Benjamin Almoneda (now bishop of Daet) | 1969 |
+| Alfonso Grageda | 1969 |
+| Jesus Esplana | 1985 |
+| Juan A. Alarcon, Jr. H.P. | 1989 |
+
+| **Parochial Vicars** | **Years** |
+| ---- | ---- |
+| Jerome Rafael Gomez | 1991 |
+| Medraldo Acabado | 1993 |
+| George Burt Dele(n)a | 1993 |
+| Isidro Danilo Dizon | 1994 |
+| Leo Aldecoa | 1994 |
+| Samuel Joson | 1995 |
+| Jeffrey John Briones | 1995 |
+| Jose Roberto Carpio | 1996 |
+| Abundio Nopre, Jr. | 1996 |
+| Felix Martin Penetrante | 1997 |
 
 ---
 <p align="center">
