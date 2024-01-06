@@ -13,7 +13,7 @@
 
 ---
 
-<p align="right">
+<p align="left">
  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established on December 8, 1964. It is located at Brgy. Concepcion Pequena, Naga City, Province of Camarines Sur. The Parish Fiesta is celebrated every 8th day of December. 
 </p>
 
@@ -69,6 +69,17 @@
  SCHEDULE OF SERVICES
 </p>
 
+| **Times** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
+| 9:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
+| 11:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
+| 12:15 | English Mass | English Mass | English Mass | English Mass | English Mass | No Scheduled Mass | No Scheduled Mass |
+| 15:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
+| 17:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass (Fb Live) |
+| 17:30 | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Scheduled Mass |
+| 18:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass (Fb Live) |
+| 20:15 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
 
 ---
 <p align="center">
