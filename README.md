@@ -44,11 +44,15 @@
 | Jesus Esplana | 1985 |
 | Juan A. Alarcon, Jr. H.P. | 1989 |
 
+<p align="center">
+ #
+</p>
+
 | **Parochial Vicars** | **Years** |
 | ---- | ---- |
 | Jerome Rafael Gomez | 1991 |
 | Medraldo Acabado | 1993 |
-| George Burt Dele(n)a | 1993 |
+| George Burt Deleña | 1993 |
 | Isidro Danilo Dizon | 1994 |
 | Leo Aldecoa | 1994 |
 | Samuel Joson | 1995 |
