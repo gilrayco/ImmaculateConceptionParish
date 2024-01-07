@@ -120,16 +120,8 @@
  PERSONAL PHOTO GALLERY
 </p>
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="https://drive.google.com/file/d/1ic3qNS5L1tom55mnps1jP59tXIrqzSRc/view?usp=sharing">
-      <img src="https://drive.google.com/file/d/1ic3qNS5L1tom55mnps1jP59tXIrqzSRc/view?usp=sharing" alt="tower">
-    </a>
-    <div class="desc">tower</div>
-  </div>
-</div>
-
-<div class="clearfix"></div>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoRWS9a1E7FQ9JrdYXJxOulX0CgAewYVcMWr9NOvA_8fu08JkKwAO9fbiuJgkWZvsrQMoU6SkIuKmbOV6XlCsPdmlatQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoRWS9a1E7FQ9JrdYXJxOulX0CgAewYVcMWr9NOvA_8fu08JkKwAO9fbiuJgkWZvsrQMoU6SkIuKmbOV6XlCsPdmlatQ=s1600" width="100" height="" /> </a>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRXGtbWOF8cit4okt70KQx_qPjldg7YhBFwahMbRhPhFN9BQr7v5B-NU0XUn9zOzzHXiFAxsd8PGFgnscZf7hE23s-Npg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRXGtbWOF8cit4okt70KQx_qPjldg7YhBFwahMbRhPhFN9BQr7v5B-NU0XUn9zOzzHXiFAxsd8PGFgnscZf7hE23s-Npg=s1600" width="100" height="" /> </a>
 
 ---
 
