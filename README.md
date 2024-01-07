@@ -1,5 +1,4 @@
 # **Immaculate Conception Parish**
-*The 2nd Term Interdisciplinary PT of Mary Elahnor Victoria A. Peralta of LG 9-Brebeuf for subjects FFP and TLE-Comp.*
 
 <p align="right">
  Start date: {01/06/2024}
