@@ -120,8 +120,10 @@
  PERSONAL PHOTO GALLERY
 </p>
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoRWS9a1E7FQ9JrdYXJxOulX0CgAewYVcMWr9NOvA_8fu08JkKwAO9fbiuJgkWZvsrQMoU6SkIuKmbOV6XlCsPdmlatQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoRWS9a1E7FQ9JrdYXJxOulX0CgAewYVcMWr9NOvA_8fu08JkKwAO9fbiuJgkWZvsrQMoU6SkIuKmbOV6XlCsPdmlatQ=s1600" width="100" height="" /> </a>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRXGtbWOF8cit4okt70KQx_qPjldg7YhBFwahMbRhPhFN9BQr7v5B-NU0XUn9zOzzHXiFAxsd8PGFgnscZf7hE23s-Npg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRXGtbWOF8cit4okt70KQx_qPjldg7YhBFwahMbRhPhFN9BQr7v5B-NU0XUn9zOzzHXiFAxsd8PGFgnscZf7hE23s-Npg=s1600" width="100" height="" /> </a>
+(click to enlarge)
+
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoRWS9a1E7FQ9JrdYXJxOulX0CgAewYVcMWr9NOvA_8fu08JkKwAO9fbiuJgkWZvsrQMoU6SkIuKmbOV6XlCsPdmlatQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoRWS9a1E7FQ9JrdYXJxOulX0CgAewYVcMWr9NOvA_8fu08JkKwAO9fbiuJgkWZvsrQMoU6SkIuKmbOV6XlCsPdmlatQ=s1600" width="200" height="" /> </a>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRXGtbWOF8cit4okt70KQx_qPjldg7YhBFwahMbRhPhFN9BQr7v5B-NU0XUn9zOzzHXiFAxsd8PGFgnscZf7hE23s-Npg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRXGtbWOF8cit4okt70KQx_qPjldg7YhBFwahMbRhPhFN9BQr7v5B-NU0XUn9zOzzHXiFAxsd8PGFgnscZf7hE23s-Npg=s1600" width="200" height="" /> </a>
 
 ---
 
