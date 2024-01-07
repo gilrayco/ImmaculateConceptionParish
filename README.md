@@ -44,13 +44,13 @@
 
 | **Parish Priests** | **Years** |
 | ---- | ---- |
-| Jesus Martinez, C.M. | 1964 |
-| Manuel Blasquez, C.M. | 1967 |
-| Rogelio Gomez | 1969 |
+| Fr. Jesus Martinez, C.M. | 1964 |
+| Fr. Manuel Blasquez, C.M. | 1967 |
+| Fr. Rogelio Gomez | 1969 |
 | Most Rev. Benjamin J. Almoneda, DD | 1969 |
 | Fr. Alfonso A. Grageda | 1970 - 1976 |
-| Jesus Esplana | 1985 |
-| Rev. Msgr. Juan A. Alarcon, Jr. H.P. | 1989 |
+| Fr. Jesus Esplana | 1985 |
+| Rev. Msgr. Juan A. Alarcon, Jr. | 1989 |
 | Most Rev. Jose R. Rojas, DD | 2001 - 2007 |
 | Fr. Mario Arnulfo B. Gaite | 2008 - 2013 |
 | Fr. Edgar F. Adversario | 2014 |
@@ -62,16 +62,16 @@
 
 | **Parochial Vicars** | **Years** |
 | ---- | ---- |
-| Jerome Rafael Gomez | 1991 |
-| Medraldo Acabado | 1993 |
-| George Burt Deleña | 1993 |
-| Isidro Danilo Dizon | 1994 |
-| Leo Aldecoa | 1994 |
-| Samuel Joson | 1995 |
-| Jeffrey John Briones | 1995 |
-| Jose Roberto Carpio | 1996 |
-| Abundio Nopre, Jr. | 1996 |
-| Felix Martin Penetrante | 1997 |
+| Fr. Jerome Rafael Gomez | 1991 |
+| Fr. Medraldo Acabado | 1993 |
+| Fr. George Burt Deleña | 1993 |
+| Fr. Isidro Danilo Dizon | 1994 |
+| Fr. Leo Aldecoa | 1994 |
+| Fr. Samuel Joson | 1995 |
+| Fr. Jeffrey John Briones | 1995 |
+| Fr. Jose Roberto Carpio | 1996 |
+| Fr. Abundio Nopre, Jr. | 1996 |
+| Fr. Felix Martin Penetrante | 1997 |
 | Fr. Kip C. Bicaldo | 2014 |
 | Fr. Roy S. Gueriña | 2014  |
 
