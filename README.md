@@ -131,8 +131,6 @@
 
 <div class="clearfix"></div>
 
-()
-
 ---
 
 > REFERENCES:
