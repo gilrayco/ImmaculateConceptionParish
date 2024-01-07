@@ -122,8 +122,9 @@
 
 (click to enlarge)
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoRWS9a1E7FQ9JrdYXJxOulX0CgAewYVcMWr9NOvA_8fu08JkKwAO9fbiuJgkWZvsrQMoU6SkIuKmbOV6XlCsPdmlatQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSoRWS9a1E7FQ9JrdYXJxOulX0CgAewYVcMWr9NOvA_8fu08JkKwAO9fbiuJgkWZvsrQMoU6SkIuKmbOV6XlCsPdmlatQ=s1600" width="200" height="" /> </a>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRXGtbWOF8cit4okt70KQx_qPjldg7YhBFwahMbRhPhFN9BQr7v5B-NU0XUn9zOzzHXiFAxsd8PGFgnscZf7hE23s-Npg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRXGtbWOF8cit4okt70KQx_qPjldg7YhBFwahMbRhPhFN9BQr7v5B-NU0XUn9zOzzHXiFAxsd8PGFgnscZf7hE23s-Npg=s1600" width="200" height="" /> </a>
+<img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/416296019_425811296439063_6947575566503863741_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a73e89&_nc_ohc=W4JVqZ-BMwQAX-yPtJ2&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfAl4iLhY6AiAuINWbBLIgMlolig7I4R1jOKDcHVf4D_aw&oe=659F4DAF" width="200" >
+<img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/415022107_425811106439082_4238155723666786777_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a73e89&_nc_ohc=ZbYU7ylFMzUAX-lEBqz&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfBYPVavQ1D-Tlwcj-U2Vuj_MRCt5FupG2_A2u6jLeHDWw&oe=659FA184" width="200" >
+<img src="https://scontent.fmnl33-3.fna.fbcdn.net/v/t39.30808-6/414966844_424810683205791_3048090524084087098_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a73e89&_nc_ohc=_jSBw5xKK4MAX8-VZ8y&_nc_ht=scontent.fmnl33-3.fna&oh=00_AfCe8XduYYJg23yH5j_rZcn4kZcKmAnK8T20vNRpnK_rug&oe=659F6137" width="200" >
 
 ---
 
