@@ -16,13 +16,16 @@
 </p>
 
 > **December 8, 1964**
+> 
 >  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. It is located at Brgy. Concepcion Pequena, Naga City, Province of Camarines Sur. The Parish Fiesta is celebrated every 8th day of December.
 > 
 
 > **M D, 2014**
 > 
+> 
 
 > **November 27, 2019**
+> 
 > the parish underwent a major renovation through the rearragement of sacred spaces and the provision of new retablo, Altar. This was Solemnly Blessed and Rededicated by the Most Rev. Rolando J. Tria Tirona, OCD, DD.
 > 
  ---
