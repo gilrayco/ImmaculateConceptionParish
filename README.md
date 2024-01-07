@@ -16,11 +16,13 @@
  HISTORY
 </p>
 
-> Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established on December 8, 1964. It is located at Brgy. Concepcion Pequena, Naga City, Province of Camarines Sur. The Parish Fiesta is celebrated every 8th day of December.
->
-> In the year 2014, 
+> December 8, 1964, Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. It is located at Brgy. Concepcion Pequena, Naga City, Province of Camarines Sur. The Parish Fiesta is celebrated every 8th day of December.
 > 
-> In the year 2019, the parish underwent a major renovation through the rearragement of sacred spaces and the provision of new retablo, Altar. This was Solemnly Blessed and Rededicated by the Most Rev. Rolando J. Tria Tirona, OCD, DD on November 27.
+
+> M D, 2014,
+> 
+
+> November 27, 2019, the parish underwent a major renovation through the rearragement of sacred spaces and the provision of new retablo, Altar. This was Solemnly Blessed and Rededicated by the Most Rev. Rolando J. Tria Tirona, OCD, DD.
 > 
  ---
 <p align="center">
@@ -29,14 +31,14 @@
 
 > <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1538.8271804572398!2d123.20202882200232!3d13.621130930178643!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a18cd26aaaaaab%3A0x28f11207d8c70286!2sOur%20Lady%20of%20The%20Immaculate%20Conception%20Parish!5e0!3m2!1sen!2sus!4v1704557086444!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 > 
-> J6C2+GHQ, Concepcion Pequena, Naga, Camarines Sur, Philippines
+> J6C2+GHQ, Concepcion Pequeña, Naga, Camarines Sur, Philippines
 
 ---
 <p align="center">
  PAST AND PRESENT PARISH PRIESTS AND PAROCHIAL VICARS
 </p>
 
-| **Parish Priests** | **Year** |
+| **Parish Priests** | **Years** |
 | ---- | ---- |
 | Jesus Martinez, C.M. | 1964 |
 | Manuel Blasquez, C.M. | 1967 |
@@ -47,7 +49,7 @@
 | Rev. Msgr. Juan A. Alarcon, Jr. H.P. | 1989 |
 
 
-| **Parochial Vicars** | **Year** |
+| **Parochial Vicars** | **Years** |
 | ---- | ---- |
 | Jerome Rafael Gomez | 1991 |
 | Medraldo Acabado | 1993 |
@@ -83,7 +85,7 @@
 | 18:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass (Fb Live) |
 | 20:15 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
 
-| Office hours | - |
+| Days | Office hours |
 | ---- | ---- |
 | Monday - Saturday | 7:00 - 12:00 and 14:00 - 18:00|
 | Sunday | 7:00 - 12:00 |
