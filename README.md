@@ -20,7 +20,7 @@
 >  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. It is located at Brgy. Concepcion Pequena, Naga City, Province of Camarines Sur. The Parish Fiesta is celebrated every 8th day of December.
 > 
 
-> **M D, 2014**
+> **M. D., 2014**
 > 
 > 
 
@@ -44,14 +44,17 @@
 
 | **Parish Priests** | **Years** |
 | ---- | ---- |
-| Rev. Msgr. Juan A. Alarcon, Jr. H.P. | 1989 |
-| Most Rev. Benjamin J. Almoneda, DD | 1964-1970 |
-| Manuel Blasquez, C.M. | 1967 |
-| Jesus Esplana | 1985 |
-| Rogelio Gomez | 1969 |
-| Fr. Alfonso A. Grageda | 1970-1976 |
 | Jesus Martinez, C.M. | 1964 |
-| Rev. Fr. Marc Emmanuel Real | - |
+| Manuel Blasquez, C.M. | 1967 |
+| Rogelio Gomez | 1969 |
+| Most Rev. Benjamin J. Almoneda, DD | 1969 |
+| Fr. Alfonso A. Grageda | 1970 - 1976 |
+| Jesus Esplana | 1985 |
+| Rev. Msgr. Juan A. Alarcon, Jr. H.P. | 1989 |
+| Most Rev. Jose R. Rojas, DD | 2001 - 2007 |
+| Fr. Mario Arnulfo B. Gaite | 2008 - 2013 |
+| Fr. Edgar F. Adversario | 2014 |
+| Rev. Fr. Marc Emmanuel Real | CURRENT |
 
 <p align="center">
  #
@@ -69,6 +72,8 @@
 | Jose Roberto Carpio | 1996 |
 | Abundio Nopre, Jr. | 1996 |
 | Felix Martin Penetrante | 1997 |
+| Fr. Kip C. Bicaldo | 2014 |
+| Fr. Roy S. Gueriña | 2014  |
 
 ---
 <p align="center">
