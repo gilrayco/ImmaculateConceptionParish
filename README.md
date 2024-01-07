@@ -44,13 +44,14 @@
 
 | **Parish Priests** | **Years** |
 | ---- | ---- |
-| Jesus Martinez, C.M. | 1964 |
-| Manuel Blasquez, C.M. | 1967 |
-| Rogelio Gomez | 1969 |
-| Most Rev. Benjamin J. Almoneda, DD (now bishop of Daet) | 1964-1970 |
-| Fr. Alfonso A. Grageda | 1970-1976 |
-| Jesus Esplana | 1985 |
 | Rev. Msgr. Juan A. Alarcon, Jr. H.P. | 1989 |
+| Most Rev. Benjamin J. Almoneda, DD | 1964-1970 |
+| Manuel Blasquez, C.M. | 1967 |
+| Jesus Esplana | 1985 |
+| Rogelio Gomez | 1969 |
+| Fr. Alfonso A. Grageda | 1970-1976 |
+| Jesus Martinez, C.M. | 1964 |
+| Rev. Fr. Marc Emmanuel Real | - |
 
 <p align="center">
  #
