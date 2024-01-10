@@ -94,30 +94,26 @@
  SCHEDULE OF SERVICES
 </p>
 
-<p align="center" >
- | **Times** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
- | 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
- | 9:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
- | 11:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
- | 12:15 | English Mass | English Mass | English Mass | English Mass | English Mass | No Scheduled Mass | No Scheduled Mass |
- | 15:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
- | 17:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass (Fb Live) |
- | 17:30 | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Scheduled Mass |
- | 18:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass (Fb Live) |
- | 20:15 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
-</p>
+| **Times** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
+| 9:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
+| 11:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
+| 12:15 | English Mass | English Mass | English Mass | English Mass | English Mass | No Scheduled Mass | No Scheduled Mass |
+| 15:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
+| 17:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass (Fb Live) |
+| 17:30 | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Scheduled Mass |
+| 18:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass (Fb Live) |
+| 20:15 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
 
 <p align="center">
  #
 </p>
 
-<p align="center" >
- | Days | Office hours |
- | ---- | ---- |
- | Monday - Saturday | 7:00 - 12:00 and 14:00 - 18:00|
- | Sunday | 7:00 - 12:00 |
-</p>
+| Days | Office hours |
+| ---- | ---- |
+| Monday - Saturday | 7:00 - 12:00 and 14:00 - 18:00|
+| Sunday | 7:00 - 12:00 |
 
 ---
 <p align="center">
