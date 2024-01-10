@@ -1,6 +1,6 @@
 # **Immaculate Conception Parish**
 
-![building](https://github.com/gilrayco/ParishWebsite/assets/150888156/cdea37ca-c106-4217-a528-2cb197a1eba9)
+*****building-img*****
 
 <p align="right">
  Start date: {01/06/2024}
@@ -9,7 +9,7 @@
  Finish date: {?/?/?}
 </p>
 <p align="right">
- Last updated: {01/07/2024)
+ Last updated: {01/10/2024)
 </p>
 
 ---
