@@ -1,6 +1,6 @@
 # **Immaculate Conception Parish**
 
-*****building-img*****
+***building-img***
 
 <p align="right">
  Start date: {01/06/2024}
