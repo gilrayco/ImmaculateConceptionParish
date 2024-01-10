@@ -6,7 +6,7 @@
  Start date: {01/06/2024}
 </p>
 <p align="right">
- Finish date: {?/?/?}
+ Finish date: {?/?/2024}
 </p>
 <p align="right">
  Last updated: {01/10/2024)
@@ -91,7 +91,7 @@
 
 ---
 <p align="center">
- SCHEDULE OF SERVICES
+ SCHEDULE OF SERVICES AND ACTIVITIES
 </p>
 
 | **Times** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
@@ -117,16 +117,10 @@
 
 ---
 <p align="center">
- CALENDAR OF ACTIVITIES
+ PHOTO GALLERY
 </p>
 
-
----
-<p align="center">
- PERSONAL PHOTO GALLERY
-</p>
-
-(click to enlarge)
+(please click photo to enlarge)
 
 <a href="https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/416299452_429356932751166_6840542480866700688_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=Gfa_YK1VgToAX-VuIuQ&_nc_ht=scontent.fmnl17-1.fna&oh=00_AfBpAZbpPuQMWXw-HSlU8g-B3XCIKbUsqX2xM2IDmhlvHQ&oe=65A22DF0"> 
  <img src="https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/416299452_429356932751166_6840542480866700688_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=Gfa_YK1VgToAX-VuIuQ&_nc_ht=scontent.fmnl17-1.fna&oh=00_AfBpAZbpPuQMWXw-HSlU8g-B3XCIKbUsqX2xM2IDmhlvHQ&oe=65A22DF0" width="200" >
