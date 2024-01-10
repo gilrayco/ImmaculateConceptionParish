@@ -169,4 +169,4 @@
 > 
 > [GCatholic](http://www.gcatholic.org/churches/asia-east/64730.htm)
 >
-> [Facebook (photos)](https://www.facebook.com/ICPNAGA/photos_by)
+> [Facebook (photo source)](https://www.facebook.com/ICPNAGA/photos_by)
