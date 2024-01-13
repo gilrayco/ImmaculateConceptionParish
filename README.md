@@ -80,7 +80,12 @@
 ---
 <h1>DIFFERENT ORGANIZATIONS ATTACHED TO THE PARISH</h1>
 
-
+> Miserando Atque Eligendo
+>
+> Pontifical Society of St. Peter the Apostle
+>
+> Archdiocese of Caceres
+> 
 ---
 <h1>SCHEDULE OF SERVICES AND ACTIVITIES</h1>
 
