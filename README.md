@@ -15,18 +15,20 @@
 ---
 <h1> HISTORY </h1>
 
-> **December 8, 1964**
+> **December 08, 1964**
 > 
 >  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. It is located at Brgy. Concepcion Pequena, Naga City, Province of Camarines Sur. The Parish Fiesta is celebrated every 8th day of December.
 > 
 
-> **M. D., 1998**
+> **September 10, 1998**
 > 
-> 
+> The Marble Altar was dedicated, inaugurated, and blessed.
 
-> **M. D., 2014**
+> **December 08, 2014**
 > 
-> 
+> The Church recieved an apostolic blessing from Pope Francis to invoke an abundance of heavenly favors and continued protection of the blessed Vigin Mary upon the pastors and the faithful of the Immaculate Conception Parish City of Naga, Philippines.
+>
+> Priests from the parish, council ministers and parishioners, at being so deeply recognized and honored, renewed filial respect, obedience, and affection for His Holiness the Pope and with him turn to Mary for the light of faith to always increase.
 
 > **November 27, 2019**
 > 
@@ -83,10 +85,6 @@
 > <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/70efb8a2-aa49-4981-9279-a4218cfca67c" width="200">
 >
 > Miserando Atque Eligendo
-
->
->
-> Pontifical Society of St. Peter the Apostle
 
 > <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/93dfa944-d56b-4c23-bdaf-99986a5aafcf" width="200" >
 >
