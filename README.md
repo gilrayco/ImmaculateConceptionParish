@@ -91,6 +91,7 @@
 > <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/93dfa944-d56b-4c23-bdaf-99986a5aafcf" width="200" >
 >
 > Archdiocese of Caceres
+>
 ---
 <h1>SCHEDULE OF SERVICES AND ACTIVITIES</h1>
 
