@@ -82,10 +82,6 @@
 ---
 <h1>DIFFERENT ORGANIZATIONS ATTACHED TO THE PARISH</h1>
 
-> <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/70efb8a2-aa49-4981-9279-a4218cfca67c" width="200">
->
-> Miserando Atque Eligendo
-
 > <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/93dfa944-d56b-4c23-bdaf-99986a5aafcf" width="200" >
 >
 > Archdiocese of Caceres
