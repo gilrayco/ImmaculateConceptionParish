@@ -93,7 +93,7 @@
 >
 > Archdiocese of Caceres
 
-> <img src="" width="200" >
+> <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/fadfe6c8-8a6b-4353-a635-980db4e493cf" width="200" >
 > 
 > Pontifical Mission Societies
 
