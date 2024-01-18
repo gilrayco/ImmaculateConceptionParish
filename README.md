@@ -1,5 +1,3 @@
-# Immaculate Conception Parish
-
 ![building-img](https://github.com/gilrayco/ImmaculateConceptionParish/assets/150888156/c63f65d7-dbb6-4d37-93cf-75872ec20837)
 
 <p align="right">
@@ -117,13 +115,13 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
 | 9:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
-| 11:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
-| 12:15 | English Mass | English Mass | English Mass | English Mass | English Mass | No Scheduled Mass | No Scheduled Mass |
+| 11:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Eng Mass |
+| 12:15 | Eng Mass | Eng Mass | Eng Mass | Eng Mass | Eng Mass | No Scheduled Mass | No Scheduled Mass |
 | 15:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
-| 17:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass (Fb Live) |
-| 17:30 | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | English Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Scheduled Mass |
+| 17:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Eng Mass (Fb Live) |
+| 17:30 | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Scheduled Mass |
 | 18:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass (Fb Live) |
-| 20:15 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | English Mass |
+| 20:15 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Eng Mass |
 
 <p align="center">
  #
