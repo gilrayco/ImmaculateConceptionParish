@@ -38,7 +38,7 @@
 > **December 08, 2019**
 >
 > "La Purisima Concepcion Pequeña" was coronated and solemnly enthroned as the Official Image of the Parochial Patroness Immaculate Conception Parish.
-> 
+
 ---
 <h1>TERRITORIAL JURISDICTION</h1>
 
@@ -93,7 +93,7 @@
 >
 > Archdiocese of Caceres
 
-> <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/25e97c22-6dc8-44ae-becc-fc4723c1b814" width="200" >
+> <img src="" width="200" >
 > 
 > Pontifical Mission Societies
 
