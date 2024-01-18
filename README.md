@@ -9,7 +9,7 @@
  Finish date: {?/?/2024}
 </p>
 <p align="right">
- Last updated: {01/14/2024)
+ Last updated: {01/18/2024)
 </p>
 
 ---
@@ -85,6 +85,10 @@
 > <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/93dfa944-d56b-4c23-bdaf-99986a5aafcf" width="200" >
 >
 > Archdiocese of Caceres
+
+> <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/25e97c22-6dc8-44ae-becc-fc4723c1b814" width="200" >
+> 
+> Pontifical Mission Societies
 >
 ---
 <h1>SCHEDULE OF SERVICES AND ACTIVITIES</h1>
