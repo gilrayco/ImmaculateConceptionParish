@@ -22,7 +22,7 @@
 
 > **September 10, 1998**
 > 
-> The Marble Altar was dedicated, inaugurated, and blessed.
+> With His Holiness, Pope John Paul II, the people of God of the Immaculate Conception Parish, led by the Archbishop of Caceres, with Bicol Bishops and Clergy, the Parish Pastoral Council, the Executive and Construction Committees solemnly dedicated and inaugurated the Catholic Church of our Lady of the Immaculate Conception, which had been beuatifully designed and supervised in a sincere labor of love by Architect *Maria Concepcion P. Tolentino*, ably supported by the Structural Engineer, *Salvador R. Aldecoa*, as envisioned and carefully planned in consultation with the Archbishop and the parishioners by *Rev. Msgr. Juan A. Alarcon, Jr. H.P.*, incumbent Parish Priest, participated by the very generous Benefactors, Sponsors, and Guests as a fitting and worthy tribute to The Mother of God, The Immaculate Conception, Principal Patroness, and to the Santo Niño, as secondary Patron for the countless blessings.
 
 > **December 08, 2014**
 > 
@@ -96,14 +96,17 @@
 > <img src="https://github.com/gilrayco/ImmaculateConceptionParishWebsite/assets/150888156/25e97c22-6dc8-44ae-becc-fc4723c1b814" width="200" >
 > 
 > Pontifical Mission Societies
->
+
 ---
 <h1>ORGANIZATIONAL STRUCTURE OF THE PARISH</h1>
-<h2>Archbishop of Caceres</h2>
-<h3>Parish Priest</h3>
-<h4>Parochial Vicar</h4>
-<h5>Hermano Mayor (Cofradia de la Immaculada Concepcion)</h5>
-<h5>Hermana Mayor (Cofradia de Santo Niño)</h5>
+
+- Archbishop of Caceres
+- Chairperson of the ICP Pastoral Council
+- Chair. of the Emerald Jubilee Executive Committee
+- Parish Priest
+- Parochial Vicar
+- Hermano Mayor
+- Hermana Mayor
 
 ---
 <h1>SCHEDULE OF SERVICES AND ACTIVITIES</h1>
