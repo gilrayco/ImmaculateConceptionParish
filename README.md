@@ -17,7 +17,7 @@
 
 > **December 08, 1964**
 > 
->  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. It is located at Brgy. Concepcion Pequena, Naga City, Province of Camarines Sur. The Parish Fiesta is celebrated every 8th day of December.
+>  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. The Parish Fiesta is celebrated every 8th day of December.
 > 
 
 > **September 10, 1998**
@@ -32,9 +32,14 @@
 
 > **November 27, 2019**
 > 
-> the parish underwent a major renovation through the rearragement of sacred spaces and the provision of new retablo, Altar. This was Solemnly Blessed and Rededicated by the Most Rev. Rolando J. Tria Tirona, OCD, DD.
+> The parish underwent a major renovation through the rearragement of sacred spaces and the provision of new retablo, Altar. This was Solemnly Blessed and Rededicated by the Most Rev. Rolando J. Tria Tirona, OCD, DD.
+>
+
+> **December 08, 2019**
+>
+> "La Purisima Concepcion Pequeña" was coronated and solemnly enthroned as the Official Image of the Parochial Patroness Immaculate Conception Parish.
 > 
- ---
+---
 <h1>TERRITORIAL JURISDICTION</h1>
 
 > <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1538.8271804572398!2d123.20202882200232!3d13.621130930178643!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a18cd26aaaaaab%3A0x28f11207d8c70286!2sOur%20Lady%20of%20The%20Immaculate%20Conception%20Parish!5e0!3m2!1sen!2sus!4v1704557086444!5m2!1sen!2sus" width="120%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -58,6 +63,7 @@
 | Most Rev. Jose R. Rojas, DD | 2001 - 2007 |
 | Fr. Mario Arnulfo B. Gaite | 2008 - 2013 |
 | Fr. Edgar F. Adversario | 2014 |
+| Rev. Fr. Domingo R. Florida | 2019 |
 | Rev. Fr. Marc Emmanuel Real | CURRENT |
 
 <p align="center">
@@ -77,7 +83,8 @@
 | Fr. Abundio Nopre, Jr. | 1996 |
 | Fr. Felix Martin Penetrante | 1997 |
 | Fr. Kip C. Bicaldo | 2014 |
-| Fr. Roy S. Gueriña | 2014  |
+| Fr. Roy S. Gueriña | 2014 |
+| Rev. Fr. Emil D. Valeza | 2019 |
 
 ---
 <h1>DIFFERENT ORGANIZATIONS ATTACHED TO THE PARISH</h1>
@@ -90,6 +97,18 @@
 > 
 > Pontifical Mission Societies
 >
+---
+<h1>ORGANIZATIONAL STRUCTURE OF THE PARISH</h1>
+
+<h2>Archbishop of Caceres</h2>
+<h3>Parish Priest</h3>
+
+<h4>Parochial Vicar</h4>
+
+<h5>Hermano Mayor (Cofradia de la Immaculada Concepcion)</h5>
+
+<h5>Hermana Mayor (Cofradia de Santo Niño)</h5>
+ 
 ---
 <h1>SCHEDULE OF SERVICES AND ACTIVITIES</h1>
 
