@@ -113,7 +113,7 @@
 
 (please scroll/swipe left and right to view full schedule)
 
-| **Times** | **Mon** | **Tue** | **Wed** | **Thurs** | **Fr** | **Sat** | **Sun** |
+| **Times** | **Mon** | **Tue** | **Wed** | **Thurs** | **Fri** | **Sat** | **Sun** |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
 | 9:00 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Bikol Mass |
