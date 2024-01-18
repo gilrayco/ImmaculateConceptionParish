@@ -1,4 +1,4 @@
-<3
+# Immaculate Conception Parish
 
 ![building-img](https://github.com/gilrayco/ImmaculateConceptionParish/assets/150888156/c63f65d7-dbb6-4d37-93cf-75872ec20837)
 
