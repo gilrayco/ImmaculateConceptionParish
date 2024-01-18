@@ -111,17 +111,17 @@
 
 (please scroll/swipe left and right to view full schedule)
 
-| **Times** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
+| **Times** | **Mon** | **Tue** | **Wed** | **Thurs** | **Fr** | **Sat** | **Sun** |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
-| 9:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
-| 11:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Eng Mass |
-| 12:15 | Eng Mass | Eng Mass | Eng Mass | Eng Mass | Eng Mass | No Scheduled Mass | No Scheduled Mass |
-| 15:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass |
-| 17:00 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Eng Mass (Fb Live) |
-| 17:30 | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Scheduled Mass |
-| 18:30 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Bikol Mass (Fb Live) |
-| 20:15 | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | No Scheduled Mass | Eng Mass |
+| 9:00 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Bikol Mass |
+| 11:00 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Eng Mass |
+| 12:15 | Eng Mass | Eng Mass | Eng Mass | Eng Mass | Eng Mass | No Mass | No Mass |
+| 15:30 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Bikol Mass |
+| 17:00 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Eng Mass (Fb Live) |
+| 17:30 | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Mass |
+| 18:30 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Bikol Mass (Fb Live) |
+| 20:15 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Eng Mass |
 
 <p align="center">
  #
