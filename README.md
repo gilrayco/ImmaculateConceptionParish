@@ -42,7 +42,7 @@
 ---
 <h1>TERRITORIAL JURISDICTION</h1>
 
-> <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1538.8271804572398!2d123.20202882200232!3d13.621130930178643!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a18cd26aaaaaab%3A0x28f11207d8c70286!2sOur%20Lady%20of%20The%20Immaculate%20Conception%20Parish!5e0!3m2!1sen!2sus!4v1704557086444!5m2!1sen!2sus" width="120%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+> <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1538.8271804572398!2d123.20202882200232!3d13.621130930178643!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a18cd26aaaaaab%3A0x28f11207d8c70286!2sOur%20Lady%20of%20The%20Immaculate%20Conception%20Parish!5e0!3m2!1sen!2sus!4v1704557086444!5m2!1sen!2sus" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 > 
 > J6C2+GHQ, Concepcion Pequeña, Naga, Camarines Sur, Philippines
 >
@@ -99,16 +99,12 @@
 >
 ---
 <h1>ORGANIZATIONAL STRUCTURE OF THE PARISH</h1>
-
 <h2>Archbishop of Caceres</h2>
 <h3>Parish Priest</h3>
-
 <h4>Parochial Vicar</h4>
-
 <h5>Hermano Mayor (Cofradia de la Immaculada Concepcion)</h5>
-
 <h5>Hermana Mayor (Cofradia de Santo Niño)</h5>
- 
+
 ---
 <h1>SCHEDULE OF SERVICES AND ACTIVITIES</h1>
 
