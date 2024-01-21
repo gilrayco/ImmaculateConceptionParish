@@ -139,11 +139,11 @@
 
 (please click on photo to enlarge)
 
-<a href="https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/416299452_429356932751166_6840542480866700688_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=Gfa_YK1VgToAX-VuIuQ&_nc_ht=scontent.fmnl17-1.fna&oh=00_AfBpAZbpPuQMWXw-HSlU8g-B3XCIKbUsqX2xM2IDmhlvHQ&oe=65A22DF0"> 
- <img src="https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/416299452_429356932751166_6840542480866700688_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=Gfa_YK1VgToAX-VuIuQ&_nc_ht=scontent.fmnl17-1.fna&oh=00_AfBpAZbpPuQMWXw-HSlU8g-B3XCIKbUsqX2xM2IDmhlvHQ&oe=65A22DF0" width="42%" >
+<a href=""> 
+ <img src="" width="42%" >
 </a>
-<a href="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/415022107_425811106439082_4238155723666786777_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a73e89&_nc_ohc=ZbYU7ylFMzUAX-lEBqz&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfBYPVavQ1D-Tlwcj-U2Vuj_MRCt5FupG2_A2u6jLeHDWw&oe=659FA184">
- <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/415022107_425811106439082_4238155723666786777_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a73e89&_nc_ohc=ZbYU7ylFMzUAX-lEBqz&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfBYPVavQ1D-Tlwcj-U2Vuj_MRCt5FupG2_A2u6jLeHDWw&oe=659FA184" width="42%" >
+<a href="https://github.com/gilrayco/ParishWebsite/assets/150888156/4120c178-9552-4eaf-9abf-e37ed6799b0f">
+ <img src="https://github.com/gilrayco/ParishWebsite/assets/150888156/56b68d6f-b119-4aa1-b451-1bc52e7af325" width="42%" >
 </a>
 <a href="https://scontent.fmnl33-3.fna.fbcdn.net/v/t39.30808-6/414966844_424810683205791_3048090524084087098_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a73e89&_nc_ohc=_jSBw5xKK4MAX8-VZ8y&_nc_ht=scontent.fmnl33-3.fna&oh=00_AfCe8XduYYJg23yH5j_rZcn4kZcKmAnK8T20vNRpnK_rug&oe=659F6137">
  <img src="https://scontent.fmnl33-3.fna.fbcdn.net/v/t39.30808-6/414966844_424810683205791_3048090524084087098_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a73e89&_nc_ohc=_jSBw5xKK4MAX8-VZ8y&_nc_ht=scontent.fmnl33-3.fna&oh=00_AfCe8XduYYJg23yH5j_rZcn4kZcKmAnK8T20vNRpnK_rug&oe=659F6137" width="42%" >
