@@ -137,11 +137,8 @@
 
 (please click on photo to enlarge)
 
-<a href=""> 
- <img src="" width="42%" >
-</a>
-<a href="https://github.com/gilrayco/ParishWebsite/assets/150888156/4120c178-9552-4eaf-9abf-e37ed6799b0f">
- <img src="https://github.com/gilrayco/ParishWebsite/assets/150888156/56b68d6f-b119-4aa1-b451-1bc52e7af325" width="42%" >
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTOIhQ2BOaFO6y8lpDS8D2t5yYxksmAW77g8ZcUEyTlWFOXOoL6dE554DjWX2ECcOIFwcxZ2ZHRePHR0XhEy78rNM8K7w=s1600?source=screenshot.guru"> 
+ <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTOIhQ2BOaFO6y8lpDS8D2t5yYxksmAW77g8ZcUEyTlWFOXOoL6dE554DjWX2ECcOIFwcxZ2ZHRePHR0XhEy78rNM8K7w=s1600" width="42%" >
 </a>
 <a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTmZWc248AEBuwbDZBFUBO8wKAB9FVrAj2XMy1lPc3JkqdWoCWmcpXJZ32V33Pm8K82w0sxgmxLEZlVSU5XpSIJxw5C=s1600?source=screenshot.guru">
  <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTmZWc248AEBuwbDZBFUBO8wKAB9FVrAj2XMy1lPc3JkqdWoCWmcpXJZ32V33Pm8K82w0sxgmxLEZlVSU5XpSIJxw5C=s1600" width="42%" >
