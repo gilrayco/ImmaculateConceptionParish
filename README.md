@@ -110,6 +110,7 @@
 3- Parochial Vicar -3
 <p align="center">
 4- Hermano Mayor & Hermana Mayor -4
+</p>
 
 ---
 <h1>SCHEDULE OF SERVICES AND ACTIVITIES</h1>
