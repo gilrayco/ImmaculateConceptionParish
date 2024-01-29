@@ -104,10 +104,13 @@
 
 <p align="center">
 1- Archbishop of Caceres -1
+</p>
 <p align="center">
 2- Parish Priest -2
+</p>
 <p align="center">
 3- Parochial Vicar -3
+</p>
 <p align="center">
 4- Hermano Mayor & Hermana Mayor -4
 </p>
