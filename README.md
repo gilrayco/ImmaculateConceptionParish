@@ -104,8 +104,14 @@
 
 <p align="center">
  <h2>Archbishop of Caceres</h2>
+</p>
+<p align="center">
  <h3>Parish Priest</h3>
+</p>
+<p align="center">
  <h4>Parochial Vicar</h4>
+</p>
+<p align="center">
  <h5>Hermano Mayor & Hermana Mayor</h5>
 </p>
 
