@@ -1,4 +1,6 @@
-![building-img](https://github.com/gilrayco/ImmaculateConceptionParish/assets/150888156/c63f65d7-dbb6-4d37-93cf-75872ec20837)
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSeR19-YODl56jzA9d2IrQvrzzh710UtlsZikZS2zATTvGybmszOy2DPbH0HBQHd0oo6RZvX0sWPFCGn21dPhTyuxUp=s1600?source=screenshot.guru"> 
+ <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSeR19-YODl56jzA9d2IrQvrzzh710UtlsZikZS2zATTvGybmszOy2DPbH0HBQHd0oo6RZvX0sWPFCGn21dPhTyuxUp=s1600" width="69%" > 
+</a>
 
 # Immaculate Conception Parish
 
