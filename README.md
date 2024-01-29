@@ -101,8 +101,6 @@
 <h1>ORGANIZATIONAL STRUCTURE OF THE PARISH</h1>
 
 - Archbishop of Caceres
-- Chairperson of the ICP Pastoral Council
-- Chair. of the Emerald Jubilee Executive Committee
 - Parish Priest
 - Parochial Vicar
 - Hermano Mayor
@@ -145,11 +143,10 @@
 <a href="https://github.com/gilrayco/ParishWebsite/assets/150888156/4120c178-9552-4eaf-9abf-e37ed6799b0f">
  <img src="https://github.com/gilrayco/ParishWebsite/assets/150888156/56b68d6f-b119-4aa1-b451-1bc52e7af325" width="42%" >
 </a>
-<a href="https://scontent.fmnl33-3.fna.fbcdn.net/v/t39.30808-6/414966844_424810683205791_3048090524084087098_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a73e89&_nc_ohc=_jSBw5xKK4MAX8-VZ8y&_nc_ht=scontent.fmnl33-3.fna&oh=00_AfCe8XduYYJg23yH5j_rZcn4kZcKmAnK8T20vNRpnK_rug&oe=659F6137">
- <img src="https://scontent.fmnl33-3.fna.fbcdn.net/v/t39.30808-6/414966844_424810683205791_3048090524084087098_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a73e89&_nc_ohc=_jSBw5xKK4MAX8-VZ8y&_nc_ht=scontent.fmnl33-3.fna&oh=00_AfCe8XduYYJg23yH5j_rZcn4kZcKmAnK8T20vNRpnK_rug&oe=659F6137" width="42%" >
+<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTmZWc248AEBuwbDZBFUBO8wKAB9FVrAj2XMy1lPc3JkqdWoCWmcpXJZ32V33Pm8K82w0sxgmxLEZlVSU5XpSIJxw5C=s1600?source=screenshot.guru">
+ <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTmZWc248AEBuwbDZBFUBO8wKAB9FVrAj2XMy1lPc3JkqdWoCWmcpXJZ32V33Pm8K82w0sxgmxLEZlVSU5XpSIJxw5C=s1600" width="42%" >
 </a>
-<a href="https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/411857410_419878290365697_5871642732359432528_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a73e89&_nc_ohc=vkWnIeRaPgIAX9CzLli&_nc_ht=scontent.fmnl17-2.fna&oh=00_AfDa34IEIH7jVflQC1cMY7jybJB-SYKzhNybdfP7eUby8w&oe=65A3F978">
- <img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/411857410_419878290365697_5871642732359432528_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a73e89&_nc_ohc=vkWnIeRaPgIAX9CzLli&_nc_ht=scontent.fmnl17-2.fna&oh=00_AfDa34IEIH7jVflQC1cMY7jybJB-SYKzhNybdfP7eUby8w&oe=65A3F978" width="42%">
+ width="42%">
 </a>
 <a href="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/416113519_424810553205804_5338913075170899291_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a73e89&_nc_ohc=hVvffpMImE8AX-lLuG6&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfBs3e7cIUcDf2_GTop8tWG20BLh15MH6v3dfDc1pcHUZg&oe=659EBBFB">
  <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/416113519_424810553205804_5338913075170899291_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a73e89&_nc_ohc=hVvffpMImE8AX-lLuG6&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfBs3e7cIUcDf2_GTop8tWG20BLh15MH6v3dfDc1pcHUZg&oe=659EBBFB" width="42%" >
