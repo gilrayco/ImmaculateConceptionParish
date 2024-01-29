@@ -102,13 +102,13 @@
 ---
 <h1>ORGANIZATIONAL STRUCTURE OF THE PARISH</h1>
 
-# Archbishop of Caceres
+# 1. Archbishop of Caceres
 
-## Parish Priest
+## 2. Parish Priest
 
-### Parochial Vicar
+### 3. Parochial Vicar
 
-#### Hermano Mayor & Hermana Mayor
+#### 4. Hermano Mayor & Hermana Mayor
 
 ---
 <h1>SCHEDULE OF SERVICES AND ACTIVITIES</h1>
