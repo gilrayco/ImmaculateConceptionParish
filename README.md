@@ -15,8 +15,9 @@
 </p>
 
 ---
-<h1> HISTORY </h1>
-
+<details>
+ <summary>HISTORY</summary>
+ <p>
 > **December 08, 1964**
 > 
 >  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. The Parish Fiesta is celebrated every 8th day of December.
@@ -40,6 +41,8 @@
 > **December 08, 2019**
 >
 > "La Purisima Concepcion Pequeña" was coronated and solemnly enthroned as the Official Image of the Parochial Patroness Immaculate Conception Parish.
+ </p>
+</details>
 
 ---
 <h1>TERRITORIAL JURISDICTION</h1>
@@ -123,7 +126,6 @@
 <details open>
  <summary>GENERAL SCHEDULE</summary>
  <p>
-  
   | **Times** | **Mon** | **Tue** | **Wed** | **Thurs** | **Fri** | **Sat** | **Sun** |
   | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
   | 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
@@ -135,7 +137,6 @@
   | 17:30 | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Mass |
   | 18:30 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Bikol Mass (Fb Live) |
   | 20:15 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Eng Mass |
-  
  </p>
 </details>
 
