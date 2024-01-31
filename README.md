@@ -18,7 +18,6 @@
 <details>
  <summary>▼ HISTORY</summary>
  <p>
-  
 > **December 08, 1964**
 > 
 >  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. The Parish Fiesta is celebrated every 8th day of December.
@@ -42,7 +41,6 @@
 > **December 08, 2019**
 >
 > "La Purisima Concepcion Pequeña" was coronated and solemnly enthroned as the Official Image of the Parochial Patroness Immaculate Conception Parish.
-
  </p>
 </details>
 
