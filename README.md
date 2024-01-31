@@ -15,18 +15,24 @@
 </p>
 
 ---
-<details>
- <summary>▼ HISTORY</summary>
- <p>
+<h1>HISTORY</h1>
   
-   > **December 08, 1964**
-   > 
-   >  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. The Parish Fiesta is celebrated every 8th day of December.
-   > 
+<details>
+ <summary><b>▼December 08, 1964</b></summary>
+ <p>
+  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. The Parish Fiesta is celebrated every 8th day of December.
+ </p>
+</details>
    
-   > **September 10, 1998**
-   > 
-   > With His Holiness, Pope John Paul II, the people of God of the Immaculate Conception Parish, led by the Archbishop of Caceres, with Bicol Bishops and Clergy, the Parish Pastoral Council, the Executive and Construction Committees solemnly dedicated and inaugurated the Catholic Church of our Lady of the Immaculate Conception, which had been beuatifully designed and supervised in a sincere labor of love by Architect *Maria Concepcion P. Tolentino*, ably supported by the Structural Engineer, *Salvador R. Aldecoa*, as envisioned and carefully planned in consultation with the Archbishop and the parishioners by *Rev. Msgr. Juan A. Alarcon, Jr. H.P.*, incumbent Parish Priest, participated by the very generous Benefactors, Sponsors, and Guests as a fitting and worthy tribute to The Mother of God, The Immaculate Conception, Principal Patroness, and to the Santo Niño, as secondary Patron for the countless blessings.
+<details>
+ <summary><b>▼September 10, 1988</b></summary>
+   <p>
+   
+   With His Holiness, Pope John Paul II, the people of God of the Immaculate Conception Parish, led by the Archbishop of Caceres, with Bicol Bishops and Clergy, the Parish Pastoral Council, the Executive and Construction Committees solemnly dedicated and inaugurated the Catholic Church of our Lady of the Immaculate Conception, which had been beuatifully designed and supervised in a sincere labor of love by Architect *Maria Concepcion P. Tolentino*, ably supported by the Structural Engineer, *Salvador R. Aldecoa*, as envisioned and carefully planned in consultation with the Archbishop and the parishioners by *Rev. Msgr. Juan A. Alarcon, Jr. H.P.*, incumbent Parish Priest, participated by the very generous Benefactors, Sponsors, and Guests as a fitting and worthy tribute to The Mother of God, The Immaculate Conception, Principal Patroness, and to the Santo Niño, as secondary Patron for the countless blessings.
+   
+   </p>
+ </details>
+
    
    > **December 08, 2014**
    > 
