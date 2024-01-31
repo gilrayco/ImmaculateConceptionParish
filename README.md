@@ -18,31 +18,31 @@
 <details>
  <summary>▼ HISTORY</summary>
  <p>
-
- > **December 08, 1964**
- > 
- >  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. The Parish Fiesta is celebrated every 8th day of December.
- > 
-
- > **September 10, 1998**
- > 
- > With His Holiness, Pope John Paul II, the people of God of the Immaculate Conception Parish, led by the Archbishop of Caceres, with Bicol Bishops and Clergy, the Parish Pastoral Council, the Executive and Construction Committees solemnly dedicated and inaugurated the Catholic Church of our Lady of the Immaculate Conception, which had been beuatifully designed and supervised in a sincere labor of love by Architect *Maria Concepcion P. Tolentino*, ably supported by the Structural Engineer, *Salvador R. Aldecoa*, as envisioned and carefully planned in consultation with the Archbishop and the parishioners by *Rev. Msgr. Juan A. Alarcon, Jr. H.P.*, incumbent Parish Priest, participated by the very generous Benefactors, Sponsors, and Guests as a fitting and worthy tribute to The Mother of God, The Immaculate Conception, Principal Patroness, and to the Santo Niño, as secondary Patron for the countless blessings.
-
- > **December 08, 2014**
- > 
- > The Church recieved an apostolic blessing from Pope Francis to invoke an abundance of heavenly favors and continued protection of the blessed Vigin Mary upon the pastors and the faithful of the Immaculate Conception Parish City of Naga, Philippines.
- >
- > Priests from the parish, council ministers and parishioners, at being so deeply recognized and honored, renewed filial respect, obedience, and affection for His Holiness the Pope and with him turn to Mary for the light of faith to always increase.
-
- > **November 27, 2019**
- > 
- > The parish underwent a major renovation through the rearragement of sacred spaces and the provision of new retablo, Altar. This was Solemnly Blessed and Rededicated by the Most Rev. Rolando J. Tria Tirona, OCD, DD.
- >
-
- > **December 08, 2019**
- >
- > "La Purisima Concepcion Pequeña" was coronated and solemnly enthroned as the Official Image of the Parochial Patroness Immaculate Conception Parish.
-
+  
+  > **December 08, 1964**
+  > 
+  >  Immaculate Conception Parish of the Roman Catholic Archdiocese of Caceres was established. The Parish Fiesta is celebrated every 8th day of December.
+  > 
+  
+  > **September 10, 1998**
+  > 
+  > With His Holiness, Pope John Paul II, the people of God of the Immaculate Conception Parish, led by the Archbishop of Caceres, with Bicol Bishops and Clergy, the Parish Pastoral Council, the Executive and Construction Committees solemnly dedicated and inaugurated the Catholic Church of our Lady of the Immaculate Conception, which had been beuatifully designed and supervised in a sincere labor of love by Architect *Maria Concepcion P. Tolentino*, ably supported by the Structural Engineer, *Salvador R. Aldecoa*, as envisioned and carefully planned in consultation with the Archbishop and the parishioners by *Rev. Msgr. Juan A. Alarcon, Jr. H.P.*, incumbent Parish Priest, participated by the very generous Benefactors, Sponsors, and Guests as a fitting and worthy tribute to The Mother of God, The Immaculate Conception, Principal Patroness, and to the Santo Niño, as secondary Patron for the countless blessings.
+  
+  > **December 08, 2014**
+  > 
+  > The Church recieved an apostolic blessing from Pope Francis to invoke an abundance of heavenly favors and continued protection of the blessed Vigin Mary upon the pastors and the faithful of the Immaculate Conception Parish City of Naga, Philippines.
+  >
+  > Priests from the parish, council ministers and parishioners, at being so deeply recognized and honored, renewed filial respect, obedience, and affection for His Holiness the Pope and with him turn to Mary for the light of faith to always increase.
+  
+  > **November 27, 2019**
+  > 
+  > The parish underwent a major renovation through the rearragement of sacred spaces and the provision of new retablo, Altar. This was Solemnly Blessed and Rededicated by the Most Rev. Rolando J. Tria Tirona, OCD, DD.
+  >
+  
+  > **December 08, 2019**
+  >
+  > "La Purisima Concepcion Pequeña" was coronated and solemnly enthroned as the Official Image of the Parochial Patroness Immaculate Conception Parish.
+  
  </p>
 </details>
 
