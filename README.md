@@ -144,37 +144,111 @@
 (please scroll/swipe left and right to view full schedule)
 
 <details open>
- <summary>▼ GENERAL SCHEDULE</summary>
+ <summary>▼GENERAL SCHEDULE</summary>
  <p>
   
   <table>
   <tr> 
-    <td><b>Time</b></td>
-    <td><b>Sat</b></td>
-    <td><b>Sun</b></td>
-    <td><b>Mon</b></td>
-    <td><b>Tue</b></td>
-    <td><b>Wed</b></td>
-    <td><b>Thur</b></td>
-    <td><b>Fri</b></td>
+    <td><b><h2>TIME</h2></b></td>
+    <td><b><h2>SAT</h2></b></td>
+    <td><b><h2>SUN</h2></b></td>
+    <td><b><h2>MON</h2></b></td>
+    <td><b><h2>TUE</h2></b></td>
+    <td><b><h2>WED</h2></b></td>
+    <td><b><h2>THUR</h2></b></td>
+    <td><b><h2>FRI</h2></b></td>
   </tr>
   <tr> 
-    <td>Row 1</td>
-    <td>Row 2</td>
-    <td>Row 3</td>
- </tr>
-</table>
-| **Times** | **Mon** | **Tue** | **Wed** | **Thurs** | **Fri** | **Sat** | **Sun** |
-  | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-  | 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
-  | 9:00 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Bikol Mass |
-  | 11:00 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Eng Mass |
-  | 12:15 | Eng Mass | Eng Mass | Eng Mass | Eng Mass | Eng Mass | No Mass | No Mass |
-  | 15:30 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Bikol Mass |
-  | 17:00 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Eng Mass (Fb Live) |
-  | 17:30 | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Eng Mass (Fb Live) | Bikol - Anticipated Mass (Fb Live) | No Mass |
-  | 18:30 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Bikol Mass (Fb Live) |
-  | 20:15 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Eng Mass |
+    <td><i>6:30</i></td>
+    <td>Bikol Mass</td>
+    <td>Bikol Mass (Fb live)</td>
+    <td>Bikol Mass</td>
+    <td>Bikol Mass</td>
+    <td>Bikol Mass</td>
+    <td>Bikol Mass</td>
+    <td>Bikol Mass</td>
+  </tr>
+  <tr>
+    <td><i>9:00</i></td>
+    <td>no mass</td>
+    <td>Bikol Mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+  </tr>
+  <tr>
+    <td><i>11:00</i></td>
+    <td>no mass</td>
+    <td>Eng Mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+  </tr>
+  <tr>
+    <td><i>12:15</i></td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>Eng Mass</td>
+    <td>Eng Mass</td>
+    <td>Eng Mass</td>
+    <td>Eng Mass</td>
+    <td>Eng Mass</td>
+  </tr>
+  <tr>
+    <td><i>15:30</i></td>
+    <td>no mass</td>
+    <td>Bikol Mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+  </tr>
+  <tr>
+    <td><i>17:00</i></td>
+    <td>no mass</td>
+    <td>Eng Mass (Fb live)</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+  </tr>
+  <tr>
+    <td><i>17:30</i></td>
+    <td>Anticipated Mass (Fb live)</td>
+    <td>no mass</td>
+    <td>Eng Mass (Fb live)</td>
+    <td>Eng Mass (Fb live)</td>
+    <td>Eng Mass (Fb live)</td>
+    <td>Eng Mass (Fb live)</td>
+    <td>Eng Mass (Fb live)</td>
+  </tr>
+  <tr>
+    <td><i>18:30</i></td>
+    <td>no mass</td>
+    <td>Bikol Mass (Fb live)</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+  </tr>
+  <tr>
+    <td><i>20:15</i></td>
+    <td>no mass</td>
+    <td>Eng Mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+    <td>no mass</td>
+  </tr>
+  </table>
   
  </p>
 </details>
