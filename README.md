@@ -147,7 +147,19 @@
  <summary>▼ GENERAL SCHEDULE</summary>
  <p>
   
-  | **Times** | **Mon** | **Tue** | **Wed** | **Thurs** | **Fri** | **Sat** | **Sun** |
+  <table border="1">
+  <tr> 
+    <td>Row 1</td>
+    <td>Row 2</td>
+    <td>Row 3</td>
+  </tr>
+  <tr> 
+    <td>Row 1</td>
+    <td>Row 2</td>
+    <td>Row 3</td>
+ </tr>
+</table>
+| **Times** | **Mon** | **Tue** | **Wed** | **Thurs** | **Fri** | **Sat** | **Sun** |
   | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
   | 6:30 | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass | Bikol Mass (Fb Live) |
   | 9:00 | No Mass | No Mass | No Mass | No Mass | No Mass | No Mass | Bikol Mass |
