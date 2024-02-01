@@ -274,10 +274,9 @@
   </tr>
   <tr>
    <ul>
-    <td><li><i>
-     1- Solemnity of Mary, Mother of God</li>
+    <td><li>1- Solemnity of Mary, Mother of God</li>
    <li>6- Epiphany</li>
-   <li>8- Feast of the Baptism of the Lord</i></li></td>
+   <li>8- Feast of the Baptism of the Lord</li></td>
    </ul>
   </tr>
   </table>
