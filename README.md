@@ -299,12 +299,14 @@
    <ul>
     <td><li>29- Feast of Saints Peter and Paul</li></td>
    </ul>
+    <td>no events</td>
    <ul>
     <td><li>15- Feast of Assumption</li></td>
    </ul>
    <ul>
     <td><li>8- Nativity of Mary</li></td>
    </ul>
+    <td>no events</td>
    <ul>
     <td><li>1- All Saints' Day</li>
     <li>2- All Souls Day</li></td>
