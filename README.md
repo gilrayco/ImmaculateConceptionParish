@@ -283,9 +283,13 @@
    </ul>
    <ul>
     <td><li>19- St. Joseph's Day</li>
+    <li>24- Palm Sunday</li>
     <li>28- Maundy Thursday</li>
     <li>29- Good Friday</li>
     <li>30- Holy Saturday</li></td>
+   </ul>
+   <ul>
+    <td><li>8- Annunciation</li></td>
   </tr>
   </table>
 
