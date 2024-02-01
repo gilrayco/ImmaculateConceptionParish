@@ -8,10 +8,10 @@
  Start date: {01/06/2024}
 </p>
 <p align="right">
- Finish date: {?/?/2024}
+ Finish date: {02/?/2024}
 </p>
 <p align="right">
- Last updated: {01/31/2024)
+ Last updated: {02/01/2024)
 </p>
 
 ---
@@ -147,11 +147,16 @@
  <summary>▼ GENERAL SCHEDULE</summary>
  <p>
   
-  <table border="1">
+  <table>
   <tr> 
-    <td>Row 1</td>
-    <td>Row 2</td>
-    <td>Row 3</td>
+    <td><b>Time</b></td>
+    <td><b>Sat</b></td>
+    <td><b>Sun</b></td>
+    <td><b>Mon</b></td>
+    <td><b>Tue</b></td>
+    <td><b>Wed</b></td>
+    <td><b>Thur</b></td>
+    <td><b>Fri</b></td>
   </tr>
   <tr> 
     <td>Row 1</td>
