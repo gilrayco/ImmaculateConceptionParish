@@ -282,7 +282,7 @@
     <td><li>14- Ash Wednesday</li></td>
    </ul>
    <ul>
-    <td><li>19- St. Joseph's Day</li>
+    <td><li>19- Saint Joseph's Day</li>
     <li>24- Palm Sunday</li>
     <li>28- Maundy Thursday</li>
     <li>29- Good Friday</li>
@@ -290,6 +290,30 @@
    </ul>
    <ul>
     <td><li>8- Annunciation</li></td>
+   </ul>
+   <ul>
+    <td><li>19- Pentecost</li>
+    <li>26- Trinity Sunday</li>
+    <li>30- Feast of <i>Corpus Christi</i></li></td>
+   </ul>
+   <ul>
+    <td><li>29- Feast of Saints Peter and Paul</li></td>
+   </ul>
+   <ul>
+    <td><li>15- Feast of Assumption</li></td>
+   </ul>
+   <ul>
+    <td><li>8- Nativity of Mary</li></td>
+   </ul>
+   <ul>
+    <td><li>1- All Saints' Day</li>
+    <li>2- All Souls Day</li></td>
+   </ul>
+   <ul>
+    <td><li>8- Feast of the Immaculate Conception</li>
+    <li>1 to 24- Advent</li>
+    <li>25- X-mas</li></td>
+   </ul>
   </tr>
   </table>
 
