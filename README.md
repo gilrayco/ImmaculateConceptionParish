@@ -254,26 +254,30 @@
 </details>
 
 <details>
- <summary>▼Other Events</summary>
+ <summary>▼Other Events (2024)</summary>
  <p>
 
   <table>
   <tr>
-    <td><b>JAN</b></td>
-    <td><b>FEB</b></td>
-    <td><b>MARCH</b></td>
-    <td><b>APR</b></td>
-    <td><b>MAY</b></td>
-    <td><b>JUNE</b></td>
-    <td><b>JULY</b></td>
-    <td><b>AUG</b></td>
-    <td><b>SEPT</b></td>
-    <td><b>OCT</b></td>
-    <td><b>NOV</b></td>
-    <td><b>DEC</b></td>
+    <td><b><h2>JAN</h2></b></td>
+    <td><b><h2>FEB</h2></b></td>
+    <td><b><h2>MARCH</h2></b></td>
+    <td><b><h2>APR</h2></b></td>
+    <td><b><h2>MAY</h2></b></td>
+    <td><b><h2>JUNE</h2></b></td>
+    <td><b><h2>JULY</h2></b></td>
+    <td><b><h2>AUG</h2></b></td>
+    <td><b><h2>SEPT</h2></b></td>
+    <td><b><h2>OCT</h2></b></td>
+    <td><b><h2>NOV</h2></b></td>
+    <td><b><h2>DEC</h2></b></td>
   </tr>
   <tr>
-    <td>1-<i>N</i></td>
+    <td><i>1- Solemnity of Mary, Mother of God
+   
+   6- Epiphany
+   
+   8- Feast of the Baptism of the Lord</i></td>
   </tr>
   </table>
 
