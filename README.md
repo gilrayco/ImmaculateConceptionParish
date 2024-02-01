@@ -253,6 +253,33 @@
  </p>
 </details>
 
+<details>
+ <summary>▼Other Events</summary>
+ <p>
+
+  <table>
+  <tr>
+    <td><b>JAN</b></td>
+    <td><b>FEB</b></td>
+    <td><b>MARCH</b></td>
+    <td><b>APR</b></td>
+    <td><b>MAY</b></td>
+    <td><b>JUNE</b></td>
+    <td><b>JULY</b></td>
+    <td><b>AUG</b></td>
+    <td><b>SEPT</b></td>
+    <td><b>OCT</b></td>
+    <td><b>NOV</b></td>
+    <td><b>DEC</b></td>
+  </tr>
+  <tr>
+    <td>1-<i>N</i></td>
+  </tr>
+  </table>
+
+ </p>
+</details>
+
 <p align="center">
  #
 </p>
