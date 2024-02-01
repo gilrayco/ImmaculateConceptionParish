@@ -253,7 +253,7 @@
  </p>
 </details>
 
-<button><h1>[Come celebrate mass with us!](https://m.facebook.com/ICPNAGA)</h1></button>
+<button type="button"><h1>[Come celebrate mass with us!](https://m.facebook.com/ICPNAGA)</h1></button>
 
 <details>
  <summary>▼Other Events (2024)</summary>
