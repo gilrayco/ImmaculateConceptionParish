@@ -278,6 +278,14 @@
    <li>6- Epiphany</li>
    <li>8- Feast of the Baptism of the Lord</li></td>
    </ul>
+   <ul>
+    <td><li>14- Ash Wednesday</li></td>
+   </ul>
+   <ul>
+    <td><li>19- St. Joseph's Day</li>
+    <li>28- Maundy Thursday</li>
+    <li>29- Good Friday</li>
+    <li>30- Holy Saturday</li></td>
   </tr>
   </table>
 
