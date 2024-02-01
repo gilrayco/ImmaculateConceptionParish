@@ -8,7 +8,7 @@
  Start date: {01/06/2024}
 </p>
 <p align="right">
- Finish date: {02/?/2024}
+ Finish date: {02/01/2024}
 </p>
 <p align="right">
  Last updated: {02/01/2024)
@@ -273,11 +273,11 @@
     <td><b><h2>DEC</h2></b></td>
   </tr>
   <tr>
-    <td><i>1- Solemnity of Mary, Mother of God
-   
-   6- Epiphany
-   
-   8- Feast of the Baptism of the Lord</i></td>
+   <ul>
+    <td><li><i>
+     1- Solemnity of Mary, Mother of God</li>
+   <li>6- Epiphany</li>
+   <li>8- Feast of the Baptism of the Lord</li></i></td>
   </tr>
   </table>
 
