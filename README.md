@@ -377,4 +377,6 @@
 >
 > [Facebook (photo source)](https://www.facebook.com/ICPNAGA/photos_by)
 >
-> [Gdrive img to HTML code cnvrt](https://www.labnol.org/embed/google/drive/)
+> [Gdrive img to HTML code cnvrtr](https://www.labnol.org/embed/google/drive/)
+>
+> [Digital Ocean (tutorials)](digitalocean.com)
