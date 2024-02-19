@@ -11,7 +11,7 @@
  Finish date: {02/01/2024}
 </p>
 <p align="right">
- Last updated: {02/01/2024)
+ Last updated: {02/19/2024)
 </p>
 
 ---
@@ -381,4 +381,4 @@
 >
 > [Gdrive img to HTML code cnvrtr](https://www.labnol.org/embed/google/drive/)
 >
-> [Digital Ocean (tutorials)](digitalocean.com)
+> [Digital Ocean (tutorials)](https://digitalocean.com)
