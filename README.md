@@ -381,4 +381,4 @@
 >
 > [Gdrive img to HTML code cnvrtr](https://www.labnol.org/embed/google/drive/)
 >
-> [Digital Ocean (tutorials)](https://digitalocean.com)
+> [Digital Ocean (tutorials)](https://digitalocean.com) (updated:02/19. link was broken last time)
